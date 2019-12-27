@@ -1,4 +1,17 @@
 # Site navigation links
 
+- title: Home
+  url: /
+
+- title: Blog
+  url: /blog/
+
 - title: Projects
   url: /projects/
+
+- title: About
+  url: /about/
+
+- title: Moon
+  url: https://vermashivam679.github.io/Moontheworld
+  
