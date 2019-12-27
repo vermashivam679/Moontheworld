@@ -39,12 +39,12 @@ sass:
 #bing-verify:
 #email:
 # twitter:            username
-facebook:           'https://www.facebook.com/shivam.verma.777363'
-github-url:         'https://github.com/vermashivam679'
+facebook:           'shivam.verma.777363'
+github-url:         'vermashivam679'
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          'https://www.linkedin.com/in/shivam-verma-b82b1712/'
+linkedin:          'shivam-verma-b82b1712'
 #xing:              username
-instagram:          'https://www.instagram.com/vermashivam679/'
+instagram:          'vermashivam679'
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
