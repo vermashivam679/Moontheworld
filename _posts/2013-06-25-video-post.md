@@ -22,7 +22,7 @@ comments: false
 This research was aimed at improving cabin level Passenger Load Pickup Forecasting with Deep-Neural Networks against the conventional Additive Pickup model. The application of machine learning techniques in the airline industry still remains a challenge mainly because of the unavailability of high-quality data and high dependence on simple & interpretable models.  
 
 #### Model Selection
-The first step of the study was to compare the performance and feasibility of various machine learning techniques. Neural Networks (by $H_{2}O.ai$) showed promising results with lesser runtime, space usage, and better scalability. The below figure shows the comparison of various models that were tried.  
+The first step of the study was to compare the performance and feasibility of various machine learning techniques. Neural Networks (by $$H_{2}O.ai$$) showed promising results with lesser runtime, space usage, and better scalability. The below figure shows the comparison of various models that were tried.  
 
 <figure>
 	<a href="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/RMSE_comparison_models.jpg"><img src="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/RMSE_comparison_models.jpg"></a>
