@@ -19,12 +19,12 @@ comments: false
 
 ### Project Details:  
 
-- Developed inventory optimization process using EMSR-b algorithm for ($$\~1400$$ daily flights & $$365$$ days)  
+- Developed inventory optimization process using EMSR-b algorithm for ($$~1400$$ daily flights & $$365$$ days)  
 - Planned & setup automated process integrating various data sources with in-built alerts using `R` & `SQL`  
 - The system was dynamic & interactive and took inputs from more than $$50$$ revenue analysts for efficient business operations.  
 - I collaborated with the market operations team and made them comfortable with the new system in place.  
 - My diligence in the project yielded great rewards when I was awarded [High Business Impact](https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/6e_High_Business_Impact.jpg) & [6e Achiever](https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/RMNext_6e_achiever.jpg). I was also among $$18$$ finalists for the “Employee of the Year” award out of $$14,000$$ employees.  
-- This led to Q-o-Q $$5-7\%$$ improvement in `RASK` (Revenue/Available Seat KMs) and expected Y-o-Y improvement of $$\~5\%$$. 'Expected' because it is difficult to estimate this due to continous capacity increase, different market dynamics & continous enhancements in the algorithm.  
+- This led to Q-o-Q $$5 \- 7\%$$ improvement in `RASK` (Revenue/Available Seat KMs) and expected Y-o-Y improvement of $$~5\%$$. 'Expected' because it is difficult to estimate this due to continous capacity increase, different market dynamics & continous enhancements in the algorithm.  
 
 <figure>
 	<a href="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/EmployeeOfTheYear_IndiGo.jpg"><img src="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/EmployeeOfTheYear_IndiGo.jpg"></a>
