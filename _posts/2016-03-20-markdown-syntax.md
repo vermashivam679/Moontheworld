@@ -20,6 +20,26 @@ As part of RP&A, I developed a seat inventory optimization model based on Expect
 
 
 
+
+##### RMNext:
+- Final Answer: In a 4 member team of revenue planning and analysis- commercial Indigo airlines, i was given the responsibility to develop an in-house Inventory optimization model that incorporated the mathematical forecast & optimization models and a strategic decision tree to match competition in the airline market for the market leader. With the support from my mentors (manager & AVP of revenue management) and great caution & effort from my side, we could develop a system which none other indian airlines could do before. The automated inventory optimization model could combine data scrapped from travel websites with the internal sources to maximize revenue and gain market intelligence to react accordingly. With such a system in place which is dynamic and interactive because it takes inputs from more than 50 revenue analysts for fast way of operating business, we increased the bandwidth of the market operations team which could function more efficiently. Because of such high business critcality of the system whose output was analysed by market operations team on a daily basis for more than 1000 daily flights, i had to create a robust and error-free model in a scrupulous manner. This project helped me gain immense exposure by directly interacting with the business leaders and gave me great confidence in my abilities to build some thing new from scratch which is crucial to the business. I was also recognised for my efforts by getting nominated for awards such as employee of the year, high business impact, it felt really great to have achieved something big by overcoming hurdles at many points & not getting bogged down by the complexity of the problem at hand.  
+
+
+- With the support from my mentors (manager & AVP of revenue management)In a team of 4 people where only i had a good grasp of R and it could help achieve something which none other indian airlines has done before, it helped me gain immense exposure and gave me great confidence in my abilities to build some thing from scratch which is crucial to a business and the responsibility to manage such a competitive and robust system, it required great effort and caution, an optimal way to manage airline inventory incorporating mathematical forecast & optimization model and a strategic decision tree to match competition in the airline market.  
+
+- could help achieve something which none other indian airlines has done before  
+	- how big it is: How we have created a method to mold data sccording to our needs and give us intellignece on taking business decisions and to drive business and capture opportunities from the market as soon as possible and how data gives you the power to react fast in a highly competitive market environment. fluid & scrupulous modeling to change based on competition strategy. Scrupulous coding in emsr. My Idiosyncracies in the project  
+	- how is it helpful to the team: how has development of RMNext helped me know the importance of a good platform for people to carry out tasks and MIs reports and how tableau keep us updated on recent insights from daily flow of data. platform to implement end to end automated and interactive model for new and fast way of operating business  
+	- what it helped me gain: it also provided me a great platform to create robust sysstems because of constant interaction with operations team. the output of the models were constantly being viiewed by a team of 40-50 people managing revenue of 1000 daily flights of the biggest airline in the country  
+		- Mention awards: it felt really great to have achieved something great by not getting bogged down by looking at the complexity of the problem and whatever discouragement we recieved we could achieve what we wanted.  
+		- it helped me gain immense exposure and gave me great confidence in my abilities to build some thing from scratch which is crucial to a business and the responsibility to manage such a competitive and robust system,  
+		- being the business leader it gave me great exposure from the leaders of the business and how actually we are above competition because of the attitude and logical mindset to drive business and capture smallest opportunity (this part maybe can help me in the MS/MBA profiles)  
+	- A theory that enables us to do new things constitute knowledge.  
+
+
+
+
+
 ## HTML Elements
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
