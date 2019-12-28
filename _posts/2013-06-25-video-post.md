@@ -25,8 +25,7 @@ This research was aimed at improving cabin level Passenger Load Pickup Forecasti
 The first step of the study was to compare the performance and feasibility of various machine learning techniques. Neural Networks showed promising results with lesser runtime, space usage, and better scalability. The below figure shows the comparison of various models that were tried:  
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<a href="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/RMSE_comparison_models.jpg"><img src="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/RMSE_comparison_models.jpg"></a>
 </figure>
 
 > *Fig. 1- RMSE comparison of Additive Pickup Model (ADP), Linear Regression (Reg.), Neural Networks (NN), Support Vector Machines (SVM) & XGBoost (XGB) on sample data of a high traffic route by Net Days Out (NDO)*
