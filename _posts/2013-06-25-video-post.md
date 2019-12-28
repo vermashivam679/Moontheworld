@@ -52,11 +52,11 @@ For the above comparison of models common set of variables were used in model bu
 Models for each route were trained on R with $$H_{2}O.ai$$ platform with controlled CPU & memory usage. Deep Neural Networks were trained based on the following parameters:
 - **Data Weightage:** Recent data is given more weight because of changing market parameters that are difficult to capture.  
 - **K-fold Cross-Validation:** K is taken between $$5$$ to $$10$$ based on the amount of training data using the formula: `minimum(10, maximum(5, round(rows in training data/10,000)))`.  
-- **Network Architecture:** Number of weights in the network is calculated based on the amount of data available for training, such that there is $1$ weight per $1000$ rows of data. The final architecture is decided by simulating results based on different architectures in a 2 hidden layer network and the constraints on the overall number of weights in the network.  
+- **Network Architecture:** Number of weights in the network is calculated based on the amount of data available for training, such that there is $$1$$ weight per $$1000$$ rows of data. The final architecture is decided by simulating results based on different architectures in a 2 hidden layer network and the constraints on the overall number of weights in the network.  
 - **Activation Function:** By testing on sample routes rectifier worked as the best activation function and if the model fails to train, for example- on new routes, then Tanh was used.  
 - **L2 Regularization:** range of lambda (regularization rate) was tuned based on the lowest RMSE value. Models were trained at `lambda=0.040` and the resultant weights of the network are used as a starting point for subsequent iteration by taking `lambda=0.025`.
-- **Early Stopping & Convergence Threshold:** maximum number of $$10,000$$ iterations are given for proper convergence of the models, such that moving average of latest $$10$$ iterations of RMSE does not improve by $$0.1%$$.  
-- **Diagnostic Checks:** if adjusted R2 of the model is less than $$0.6$$ or RMSE is more than $$15%$$ then these models were discarded. If the average directional impact of covariates on the dependent variable is not justified then also these models werediscarded.  
+- **Early Stopping & Convergence Threshold:** maximum number of $$10,000$$ iterations are given for proper convergence of the models, such that moving average of latest $$10$$ iterations of RMSE does not improve by $$0.1\%$$.  
+- **Diagnostic Checks:** if adjusted R2 of the model is less than $$0.6$$ or RMSE is more than $$15\%$$ then these models were discarded. If the average directional impact of covariates on the dependent variable is not justified then also these models werediscarded.  
 
 
 
