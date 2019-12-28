@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seat Inventory Optimization"
+title:  "Seat Inventory Optimization System (RMNext)"
 date:   Sep’17 –Dec’17
 excerpt: "As part of Revenue Planning & Analysis Team, I developed a seat inventory optimization model based on Expected Marginal Seat Revenue (EMSR-b) with a unique way of matching competitor’s fares."
 tag:
