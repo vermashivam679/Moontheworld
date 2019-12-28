@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "Inventory Optimization"
+date:   Sep’17 –Dec’17
+excerpt: "Airline Inventory Optimization, IndiGo Airlines, Sep’17 –Dec’17"
 tag:
-- markdown 
-- syntax
-- sample
-- test
+- Operations Research 
+- Large-Scale Project
+- Data Science
+- Airlines
 - jekyll
 comments: false
 ---
