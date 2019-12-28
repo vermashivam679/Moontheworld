@@ -27,8 +27,9 @@ comments: false
 - This led to Q-o-Q 5-7% improvement in RASK (Revenue/Available Seat KMs) and expected Y-o-Y improvement of ~5%. 'Expected' because it is difficult to estimate this due to continous capacity increase, different market dynamics & continous enhancements in the algorithm.  
 
 <figure>
-	<a href="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/RMSE_comparison_models.jpg"><img src="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/RMSE_comparison_models.jpg"></a>
-  <figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<a href="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/EmployeeOfTheYear_IndiGo.jpg"><img src="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/EmployeeOfTheYear_IndiGo.jpg"></a>
+  <figcaption><a href="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/EmployeeOfTheYear_IndiGo.jpg" title="Was among the 18 finalists out of 14000 employees for the Employee of the Year award at IPOE (In Pursuit Of Excellence) 2017-18">Was among the 18 finalists out of 14000 employees for the Employee
+of the Year award at IPOE (In Pursuit Of Excellence) 2017-18</a>.</figcaption>
 </figure>
 
 
