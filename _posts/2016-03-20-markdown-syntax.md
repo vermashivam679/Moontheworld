@@ -36,6 +36,7 @@ As part of RP&A, I developed a seat inventory optimization model based on Expect
 		- being the business leader it gave me great exposure from the leaders of the business and how actually we are above competition because of the attitude and logical mindset to drive business and capture smallest opportunity (this part maybe can help me in the MS/MBA profiles)  
 	- A theory that enables us to do new things constitute knowledge.  
 
+> 10 Through this project, I am incorporating the impact of capacity changes, competition flight positioning, holidays & breaks on demand forecasting. I aim to further re-design the forecast & inventory optimization architecture to reduce the chances of system failure and increase its accuracy.
 
 
 
