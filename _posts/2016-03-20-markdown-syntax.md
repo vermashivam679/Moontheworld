@@ -12,6 +12,14 @@ tag:
 comments: false
 ---
 
+
+•	At IndiGo, I front led the development of an in-house Inventory Optimization System that incorporated a forecasting model, an optimization model, and a strategic decision tree to match competition in the market which none other Indian carrier had done before. The system was dynamic & interactive and took inputs from more than 50 revenue analysts for efficient business operations and hence, required great caution & validation. I collaborated with the market operations team and made them comfortable with the new system in place. My diligence in the project yielded great rewards when I was awarded “High Business Impact” & “6e Achiever”. I was also among 18 finalists for the “Employee of the Year” award out of 14,000 employees. I achieved something extra-ordinary by overcoming hurdles at various checkpoints and not getting bogged down by the complexity of the problem at hand. The whole experience gave me a good exposure to learn how to initiate & formulate something new that reflected my idiosyncratic way of thought.  
+
+As part of RP&A, I developed a seat inventory optimization model based on Expected Marginal Seat Revenue (EMSR-b) with a unique way of matching competitor’s fares. This led to significant Q-o-Q growth in Revenue. I also worked on market level price elasticity estimation using Monotonic Spline Interpolation with an objective to optimally restructure the fares and stay competitive using shortest path algorithm.  
+
+
+
+
 ## HTML Elements
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
