@@ -2,7 +2,7 @@
 layout: post
 title:  "Inventory Optimization"
 date:   Sep’17 –Dec’17
-excerpt: "Airline Inventory Optimization, IndiGo Airlines, Sep’17 –Dec’17"
+excerpt: "As part of Revenue Planning & Analysis Team, I developed a seat inventory optimization model based on Expected Marginal Seat Revenue (EMSR-b) with a unique way of matching competitor’s fares."
 tag:
 - Operations Research 
 - Large-Scale Project
@@ -12,31 +12,29 @@ tag:
 comments: false
 ---
 
+### Overview  
+- Revenue management (RM) is the application of data and analytics aimed at defining how to sell a product(ex- Seat ticket) to the right customers(ex- Passenger), at a right price(ex- fare bucket) at the right time(ex- Net Days Out) and using the right channel(ex- own website).  
+- Inventory (seats in the plane) Allocation is deciding how many seats to sell in each fare bucket for a flight to depart in future. Load pickup forecast is one input to this model.  
+- At IndiGo, I front led the development of an in-house Inventory Optimization System that incorporated a forecasting model, an optimization model, and a strategic decision tree to match competition in the market which none other Indian carrier had done before.  
 
-•	At IndiGo, I front led the development of an in-house Inventory Optimization System that incorporated a forecasting model, an optimization model, and a strategic decision tree to match competition in the market which none other Indian carrier had done before. The system was dynamic & interactive and took inputs from more than 50 revenue analysts for efficient business operations and hence, required great caution & validation. I collaborated with the market operations team and made them comfortable with the new system in place. My diligence in the project yielded great rewards when I was awarded “High Business Impact” & “6e Achiever”. I was also among 18 finalists for the “Employee of the Year” award out of 14,000 employees. I achieved something extra-ordinary by overcoming hurdles at various checkpoints and not getting bogged down by the complexity of the problem at hand. The whole experience gave me a good exposure to learn how to initiate & formulate something new that reflected my idiosyncratic way of thought.  
+### Project Details:  
 
-As part of RP&A, I developed a seat inventory optimization model based on Expected Marginal Seat Revenue (EMSR-b) with a unique way of matching competitor’s fares. This led to significant Q-o-Q growth in Revenue. I also worked on market level price elasticity estimation using Monotonic Spline Interpolation with an objective to optimally restructure the fares and stay competitive using shortest path algorithm.  
+- Developed inventory optimization process using EMSR-b algorithm for (~1400 daily flights & 365 days)  
+- Planned & setup automated process integrating various data sources with in-built alerts using R & SQL  
+- The system was dynamic & interactive and took inputs from more than 50 revenue analysts for efficient business operations.  
+- I collaborated with the market operations team and made them comfortable with the new system in place.  
+- My diligence in the project yielded great rewards when I was awarded “High Business Impact” & “6e Achiever”. I was also among 18 finalists for the “Employee of the Year” award out of 14,000 employees.  
+- This led to Q-o-Q 5-7% improvement in RASK (Revenue/Available Seat KMs) and expected Y-o-Y improvement of ~5%. 'Expected' because it is difficult to estimate this due to continous capacity increase, different market dynamics & continous enhancements in the algorithm.  
+
+> The whole experience gave me a good exposure to learn how to initiate & formulate something new that reflected my idiosyncratic way of thought.  
 
 
 
 
 
-##### RMNext:
-- Final Answer: In a 4 member team of revenue planning and analysis- commercial Indigo airlines, i was given the responsibility to develop an in-house Inventory optimization model that incorporated the mathematical forecast & optimization models and a strategic decision tree to match competition in the airline market for the market leader. With the support from my mentors (manager & AVP of revenue management) and great caution & effort from my side, we could develop a system which none other indian airlines could do before. The automated inventory optimization model could combine data scrapped from travel websites with the internal sources to maximize revenue and gain market intelligence to react accordingly. With such a system in place which is dynamic and interactive because it takes inputs from more than 50 revenue analysts for fast way of operating business, we increased the bandwidth of the market operations team which could function more efficiently. Because of such high business critcality of the system whose output was analysed by market operations team on a daily basis for more than 1000 daily flights, i had to create a robust and error-free model in a scrupulous manner. This project helped me gain immense exposure by directly interacting with the business leaders and gave me great confidence in my abilities to build some thing new from scratch which is crucial to the business. I was also recognised for my efforts by getting nominated for awards such as employee of the year, high business impact, it felt really great to have achieved something big by overcoming hurdles at many points & not getting bogged down by the complexity of the problem at hand.  
 
 
-- With the support from my mentors (manager & AVP of revenue management)In a team of 4 people where only i had a good grasp of R and it could help achieve something which none other indian airlines has done before, it helped me gain immense exposure and gave me great confidence in my abilities to build some thing from scratch which is crucial to a business and the responsibility to manage such a competitive and robust system, it required great effort and caution, an optimal way to manage airline inventory incorporating mathematical forecast & optimization model and a strategic decision tree to match competition in the airline market.  
 
-- could help achieve something which none other indian airlines has done before  
-	- how big it is: How we have created a method to mold data sccording to our needs and give us intellignece on taking business decisions and to drive business and capture opportunities from the market as soon as possible and how data gives you the power to react fast in a highly competitive market environment. fluid & scrupulous modeling to change based on competition strategy. Scrupulous coding in emsr. My Idiosyncracies in the project  
-	- how is it helpful to the team: how has development of RMNext helped me know the importance of a good platform for people to carry out tasks and MIs reports and how tableau keep us updated on recent insights from daily flow of data. platform to implement end to end automated and interactive model for new and fast way of operating business  
-	- what it helped me gain: it also provided me a great platform to create robust sysstems because of constant interaction with operations team. the output of the models were constantly being viiewed by a team of 40-50 people managing revenue of 1000 daily flights of the biggest airline in the country  
-		- Mention awards: it felt really great to have achieved something great by not getting bogged down by looking at the complexity of the problem and whatever discouragement we recieved we could achieve what we wanted.  
-		- it helped me gain immense exposure and gave me great confidence in my abilities to build some thing from scratch which is crucial to a business and the responsibility to manage such a competitive and robust system,  
-		- being the business leader it gave me great exposure from the leaders of the business and how actually we are above competition because of the attitude and logical mindset to drive business and capture smallest opportunity (this part maybe can help me in the MS/MBA profiles)  
-	- A theory that enables us to do new things constitute knowledge.  
-
-> 10 Through this project, I am incorporating the impact of capacity changes, competition flight positioning, holidays & breaks on demand forecasting. I aim to further re-design the forecast & inventory optimization architecture to reduce the chances of system failure and increase its accuracy.
 
 
 
