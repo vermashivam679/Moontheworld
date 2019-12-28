@@ -28,7 +28,8 @@ The first step of the study was to compare the performance and feasibility of va
 	<a href="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/RMSE_comparison_models.jpg"><img src="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/RMSE_comparison_models.jpg"></a>
 </figure>
 
-> *Fig. 1- RMSE comparison of Additive Pickup Model (ADP), Linear Regression (Reg.), Neural Networks (NN), Support Vector Machines (SVM) & XGBoost (XGB) on sample data of a high traffic route by Net Days Out (NDO)*
+> *Fig. 1- RMSE comparison of Additive Pickup Model (ADP), Linear Regression (Reg.), Neural Networks (NN), Support Vector Machines (SVM) & XGBoost (XGB) on sample data of a high traffic route by Net Days Out (NDO)*  
+
 
 For the above comparison of models common set of variables were used in model buidling. Since Load pickup of a flight is predominantly driven by current booked position & Net Days Out (NDO), feature selection was not done on these features. Standard feature selection methodology was used:  
 
@@ -40,14 +41,10 @@ For the above comparison of models common set of variables were used in model bu
 - Un-standardization: variables after feature selection are transformed back to their original scale and original mean.  
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<a href="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/Sample_model_performance.jpg"><img src="https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/Sample_model_performance.jpg"></a>
 </figure>
 
-> *Fig. 2- Performance of Neural Networks (NN) & Additive Pickup (ADP) Models on sample data of a high-traffic route by Departure Date of a Flight*
-
-
-
+> *Fig. 2- Performance of Neural Networks (NN) & Additive Pickup (ADP) Models on sample data of a high-traffic route by Departure Date of a Flight*  
 
 
 
@@ -59,7 +56,12 @@ Models for each route were trained on R with H2O.ai platform with controlled CPU
 - Activation Function: By testing on sample routes rectifier worked as the best activation function and if the model fails to train, for example- on new routes, then Tanh was used.  
 - L2 Regularization: range of lambda (regularization rate) was tuned based on the lowest RMSE value. Models were trained at lambda=0.040 and the resultant weights of the network are used as a starting point for subsequent iteration by taking lambda=0.025.
 - Early Stopping & Convergence Threshold: maximum number of 10,000 iterations are given for proper convergence of the models, such that moving average of latest 10 iterations of RMSE does not improve by 0.1%.  
-- Diagnostic Checks: if adjusted R2 of the model is less than 0.5 or RMSE is more than 15% then these models were discarded. If the average directional impact of covariates on the dependent variable is not justified then also these models werediscarded.
+- Diagnostic Checks: if adjusted R2 of the model is less than 0.5 or RMSE is more than 15% then these models were discarded. If the average directional impact of covariates on the dependent variable is not justified then also these models werediscarded.  
+
+
+
+
+
 
 
 
