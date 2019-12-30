@@ -9,6 +9,7 @@ tag:
 - Data Science
 - Airlines
 - jekyll
+feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/agifors_plane.jpg
 comments: false
 ---
 
