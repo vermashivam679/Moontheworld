@@ -1,12 +1,23 @@
 ---
 layout: post
-title: "Post with Image Feature"
-date: 2012-05-23
-excerpt: "A ton of text to test readability with image feature."
+title: "AGIFORS 2018 Revenue Management Conference"
+date: 2018-05-23
+excerpt: "The Airline Group of the International Federation of Operational Research Societies (AGIFORS) is a professional society dedicated to the advancement and application of Operational Research within the airline industry. There are various study groups in AGIFORS with different focus areas. "
 tags: [sample post, readability, test, image, feature]
 feature: http://i.imgur.com/Ds6S7lJ.png
-comments: true
+comments: false
 ---
+
+AGIFORS: The Airline Group of the International Federation of Operational Research Societies (AGIFORS) is a professional society dedicated to the advancement and application of Operational Research within the airline industry. There are various study groups in AGIFORS with different focus areas. 
+{: .notice}
+
+### Conference Details  
+- A team of 4 people (including I) from Indigo airlines was selected to attend this conference whose focus was on Revenue Management & Distribution. 
+- Conference contained research work done by universities such as Massachusetts Institute of Technology (International Centre for Air Transportation), Georgia Institute of Technology, Indian Institute of Technology, Madras, United Airlines, Lufthansa Group and large businesses associated with airline operations such as Sabre Corporation & Amadeus IT Group. 
+- Many industry lead researchers such as Dr. Peter P. Belobaba & Dr. Kalyan Talluri presented their work and provided an insightful experience and a good exposure to state of the art technological advancements in the industry.
+- We found following topics such as **Deep Reinforcement Learning for Revenue Management, Multi-Purpose Clustering- Algorithm for Revenue Management Applications & Classless RM Forecasting & Optimization (PODS consortium development)** to be beneficial, catering to specific problems of Indigo's Revenue Management and presented to us with new ideas to explore upon.
+
+
 
 Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
 
