@@ -4,6 +4,7 @@ title: Long Term Route level Forecast using Linear Regression
 date: 2013-08-16
 excerpt: "Developed route specific travelled Load Factor forecasting models for future 365 days of departure."
 tags: [sample post, code, highlighting]
+feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/time_series.png
 comments: false
 ---
 
