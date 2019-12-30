@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: projectx
 title: "Fare Restructuring & Forecast Fare Adjustment Algorithm"
 date: 2013-05-22
 excerpt: "Restructured the fares to remove fare values that didn't sell and match fare values closer to competition. The impact of changing the Fare-structure on the forecast was captured by the fare adjustment algorithm."
