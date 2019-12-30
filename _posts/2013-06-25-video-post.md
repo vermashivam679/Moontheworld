@@ -7,6 +7,7 @@ tag:
 - Deep Learning
 - DataScience
 - Forecasting
+feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/Neural_nets.jpg
 comments: false
 ---
 
