@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deep-Neural Networks based Airline Passenger Load Pickup Forecasting"
+title:  "Neural Networks based Airline Passenger Load Pickup Forecasting"
 date:   2016-03-15
 excerpt: "Attempt to Implementation: Couldn't go live because of 7(56/8) times higher training time, high complexity, less interpretability, worked better than simple additive pickup model only on 70% of the network."
 tag:
