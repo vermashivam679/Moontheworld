@@ -11,7 +11,7 @@ comments: false
 ### Overview  
 Using this project I tried to solve for following problems:  
 - We needed a more scientific financial reporting system to show accurate load factor forecasts for *Annual Operations Planning (AOP)*.  
-- Forecasting was done only for //(120//) days of departure outside which inventory was managed with a more aggressive strategy leading to lesser bookings.  
+- Forecasting was done only for \\(120\\) days of departure outside which inventory was managed with a more aggressive strategy leading to lesser bookings.  
 - Forecasting method didn't include impact of holidays & festivals which was only captured in the current booked position.  
 
 ### Details  
