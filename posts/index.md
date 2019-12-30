@@ -1,6 +1,6 @@
 ---
-layout: projectx-list
-title: All Projectxs
-excerpt: "A List of Projectxs"
+layout: post-list
+title: All Posts
+excerpt: "A List of Posts"
 comments: false
 ---
