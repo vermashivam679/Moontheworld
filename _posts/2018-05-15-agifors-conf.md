@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "AGIFORS 2018 Revenue Management Conference"
-date: 2018-05-23
 excerpt: "Attended AGIFORS 2018 Conference on Revenue Management & Distribution in Hong Kong."
 tags: [sample post, readability, test, image, feature]
 feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/Conference1.jpg

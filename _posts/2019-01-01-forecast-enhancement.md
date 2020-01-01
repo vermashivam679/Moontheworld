@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Forecast Enhancements"
-date:   2015-08-10
 excerpt: "Incorporated pricing changes in the forecast using price elasticity of demand to enhance inventory allocation."
 tag:
 - markdown 

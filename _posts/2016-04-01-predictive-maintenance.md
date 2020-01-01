@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Fleet Management of Buses using Survival Analysis and Genetic Algorithm"
-date:   Sep’17 –Dec’17
 excerpt: "This was a Predictive Vehicle Maintenance project for a UK based Bus Transportation Company"
 tag:
 - Operations Research 
