@@ -9,11 +9,9 @@ tag:
 - Data Science
 - Airlines
 - jekyll
-feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/agifors_plane.jpg
+feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/Predictive-Maintenance-Strategies.png
 comments: false
 ---
-
-[<kbd>6E Achiever(Employee of the Month)</kbd>](https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/RMNext_6e_achiever.jpg)  [<kbd>High Business Impact</kbd>](https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/6e_High_Business_Impact.jpg)
 
 ### Overview  
 - Revenue management (RM) is the application of data and analytics aimed at defining how to sell a product(ex- Seat ticket) to the right customers(ex- Passenger), at a right price(ex- fare bucket) at the right time(ex- Net Days Out) and using the right channel(ex- own website).  
