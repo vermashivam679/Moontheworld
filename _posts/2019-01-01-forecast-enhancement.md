@@ -23,7 +23,7 @@ comments: false
 ### Project Details:  
 
 #### Forecasting Price with demand:  
-- Initially, there was no database of class-fares being offered. Using historically saved `R` images of RMNext runs, I extracted the latest captured fares for a historical flight.  
+- Initially, there was no database of class-fares being offered. Using historically saved `R` images of [RMNext](https://vermashivam679.github.io/Moontheworld/RMNext/) runs, I extracted the latest captured fares for a historical flight.  
 - Setup an automated process for capturing fares from RMNext offered within \\(7\\) days to departure of a flight in the fare database.  
 - Using flight-level demand curve the fare adjustment algorithm could adjust the forecasted demand using new fares offered in the market.  
 

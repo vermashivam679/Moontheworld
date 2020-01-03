@@ -4,8 +4,13 @@ title:  "Neural Networks based Airline Passenger Load Pickup Forecasting"
 excerpt: "Developed route specific Neual Network models for more than 400 routes to predict unconstrained cabin-level load factor pickup for flights to depart 90 days in future."
 tag:
 - Deep Learning
-- DataScience
-- Forecasting
+- Neural Networks
+- Demand Forecast
+- Machine Learning
+- R
+- SQL
+- H2O.ai
+
 feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/Neural_nets.jpg
 comments: false
 ---
