@@ -6,6 +6,7 @@ tag:
 - Econometrics
 - Demand Forecast
 - Inventory Optimization
+- Revenue Management
 - R
 - SQL
 feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/enhancement.jpg
