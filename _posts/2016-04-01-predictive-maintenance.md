@@ -3,11 +3,9 @@ layout: post
 title:  "Fleet Management of Buses using Survival Analysis & Genetic Algorithm"
 excerpt: "This was a Predictive Vehicle Maintenance project for a UK based Bus Transportation Company"
 tag:
-- Operations Research 
-- Large-Scale Project
-- Data Science
-- Airlines
-- jekyll
+- Machine Learning
+- Predictive Vehicle Maintenance
+- R
 feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/Predictive-Maintenance-Strategies.png
 comments: false
 ---
