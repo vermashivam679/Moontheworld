@@ -2,7 +2,7 @@
 layout: post
 title: "Fare Restructuring & Forecast Fare Adjustment Algorithm"
 excerpt: "Restructured the fares to remove fare values that didn't sell and match fare values closer to the competition. The impact of changing the fare-structure on the forecast was captured by the fare adjustment algorithm."
-tags: [sample post, images, test]
+tags: [Econometrics, Demand Forecast, R, SQL, Strategy]
 feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/dmd_crv.jpg
 comments: false
 ---
