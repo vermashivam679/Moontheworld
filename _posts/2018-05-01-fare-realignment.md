@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-### Fare Restructuring  [<kbd>6E Achiever(Employee of the Month)</kbd>](https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/Fare_restructuring_6e_achiever.jpg)
+### Fare Restructuring  
 - Using Historical data estimated market-level demand curve using Spline Interpolation.  
 - Maximized revenue by optimizing fares on demand curve using the shortest path algorithm. The fare values considered for optimization were market competition's fares scrapped from the web.  
 - The optimal fares were given as a suggestion to the market operations team.  
