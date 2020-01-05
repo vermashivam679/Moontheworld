@@ -21,17 +21,6 @@ comments: false
 - Improved the runtime of forecasting methodology from \\(8\\)hrs to \\(4\\)hrs (\\(50\%\\) reduction) using double the historical data and with class-fares for fare adjustment.  
 
 
-### Project Details:  
-
-#### Forecasting Price with demand:  
-- Initially, there was no database of class-fares being offered. Using historically saved `R` images of [RMNext](https://vermashivam679.github.io/Moontheworld/RMNext/) runs, I extracted the latest captured fares for a historical flight.  
-- Setup an automated process for capturing fares from RMNext offered within \\(7\\) days to departure of a flight in the fare database.  
-- Using flight-level demand curve the fare adjustment algorithm could adjust the forecasted demand using new fares offered in the market.  
-
-#### Increasing Efficiency of Forecasting Algorithm:  
-- Mentored a junior team member to work on shifting the forecasting process from `SQL` to `R` to reduce manual intervention, use more historical data, increase efficiency & dynamicity of the model.  
-- Used `data.table` framework in `R`, vectorized the code and divided the process in \\(2\\) equal batches to run in parallel.  
-- This increased the flexibility for a market analyst to choose more and appropriate historical data for forecasting market demand.  
 
 
 
