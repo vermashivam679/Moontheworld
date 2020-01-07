@@ -9,7 +9,7 @@ tag:
 - Revenue Management
 - R
 - SQL
-feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/enhancement.jpg
+feature: https://raw.githubusercontent.com/vermashivam679/sv1992/master/assets/img/enhancement.jpg
 comments: false
 ---
 

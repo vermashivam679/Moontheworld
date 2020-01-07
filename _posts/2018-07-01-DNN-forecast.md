@@ -11,7 +11,7 @@ tag:
 - SQL
 - H2O.ai
 
-feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/Neural_nets.jpg
+feature: https://raw.githubusercontent.com/vermashivam679/sv1992/master/assets/img/Neural_nets.jpg
 comments: false
 ---
 

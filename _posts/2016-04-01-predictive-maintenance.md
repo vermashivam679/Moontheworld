@@ -6,7 +6,7 @@ tag:
 - Machine Learning
 - Predictive Vehicle Maintenance
 - R
-feature: https://raw.githubusercontent.com/vermashivam679/Moontheworld/master/assets/img/Predictive-Maintenance-Strategies.png
+feature: https://raw.githubusercontent.com/vermashivam679/sv1992/master/assets/img/Predictive-Maintenance-Strategies.png
 comments: false
 ---
 
