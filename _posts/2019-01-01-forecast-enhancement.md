@@ -16,7 +16,7 @@ comments: false
 ### Overview  
 
 - Incorporated pricing data to forecast class-fare of class-level demand forecast to also give demand curve for the flight to depart.  
-- The [fare adjustment algorithm](https://vermashivam679.github.io/Moontheworld/fare-realignment/) changed the new forecast to adjust according to the fare structure decided by the market analyst.  
+- The [fare adjustment algorithm](https://vermashivam679.github.io/sv1992/fare-realignment/) changed the new forecast to adjust according to the fare structure decided by the market analyst.  
 - This enhancement linked pricing strategy and inventory allocation for effective Revenue Management.  
 - Improved the runtime of forecasting methodology from \\(8\\)hrs to \\(4\\)hrs (\\(50\%\\) reduction) using double the historical data and with class-fares for fare adjustment.  
 
