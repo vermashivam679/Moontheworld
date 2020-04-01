@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="21.5">
+<base target="_blank">
+<style>
+img#senju{position:relative;top:70px;left:-50px;}
+div#black{float:left;width:67px;height:1368px;background-color:black;}
+div#side{float:left;width:150px;height:1185px;background-color:white;opacity:0.7;position:relative;}
+ul#nav{solid green;}
+div#container{text-align:center;width:1350px;height:35px;opacity:0.8;}
+div#bottom{text-align:center;width:1350px;height:200px;opacity:0.9;background-color:brown;position:absolute;top:1268px;}
+div#gallery{width:480px;height:500px;position:absolute;top:300px;left:365px;}
+div.display{display:none;background-color:red;opacity:0.95;width:500px;height:500px;position:fixed;top:50px;left:350px;}
+a.gal{float:left;padding:20px;text-decoration:none;color:white;background-color:black;opacity:0.9;}
+a:hover.gal{transition:0.5s;background-color:white;color:black;}
+a:hover.gal>div.display{display:block;}
+a:hover.gal{z-index:10;position:relative;}
+img.imgdis{position:relative;top:00px;left:0px;}
+body{background-color:black;background-repeat:no-repeat;background-position:center;}
+ul#nav li.main{display:inline-table;color:white;position:relative;top:11px;left:-100px;}
+ul#nav li a{padding:10px 40px 05px 40px;background-color:green;margin-top:10px;}
+ul#nav li a{text-decoration:none;color:white;font-family:Letter Gothic Std;text-transform:uppercase;}
+ul#nav ul{text-decoration:none;color:white;display:none;float:none;}
+ul#nav li a:hover {transition:0.5s;background-color:white;color:green;border:1px solid black;}
+ul#nav li:hover>ul{display:block;}
+ul#vert li,ul#vert li a{display:block;color:white;position:relative;left:-20px;}
+ul#vert li a{padding:10px 85px 05px 65px;background-color:black;opacity:0.9;text-decoration:none;margin:0px;font-family:Microsoft Himalaya;text-transform:uppercase;}
+ul#vert li a:hover{transition:0.8s;background-color:white;color:black;border:1px solid black;}
+ul#vert ul{display:none;}
+ul#vert li:hover>ul{display:block;position:absolute;left:130px;top:0px;}
+ul#dd5 li,ul#dd6 li,ul#dd7 li,ul#dd8 li{padding:0px;list-style:none;margin:0px;}
+ul#dd li,ul#dd2 li,ul#dd3 li,ul#dd4 li{position:relative;top:8px;padding:7px 0px 6px 0px;list-style:none;margin:0px;}
+ul#dd,ul#dd2,ul#dd3,ul#dd4{padding:1px;margin:0px;}
+form,option{color:brown;padding:10px 40px 03px 40px;background-color:red;opacity:0.7;position:fixed;left:1084px;top:43px;margin:0px;}
+div#side{z-index:11;}
+marquee{color:white;background-color:red;opacity:0.7;position:relative;top:130px;}
+img#me{position:absolute;top:0px;left:0px;padding:25px;background-color:white;}
+img#me:hover{transition:0.5s;background-color:black;}
+div#tag{opacity:0.8;background-color:black;width:200px;height:40px;color:white;text-align:center;padding-top:5px;padding-bottom:7px;text-transform:uppercase;-webkit-animation:first 1.5s linear 0s infinite normal;}
+@-webkit-keyframes first{
+0%{-webkit-transform:rotateY(270deg);background-color:red;}
+50%{-webkit-transform:rotateY(360deg);background-color:black;color:white;}
+100%{-webkit-transform:rotateY(450deg);background-color:red;color:white;}
+}
+div#container2{-webkit-perspective:200px;width:200px;height:60px;position:absolute;top:230px;left:500px;}
+div#spcont{opacity:1;width:50px;height:50px;background-color:black;color:white;position:absolute;top:698px;left:400px;padding-top:5px;padding-left:15px;border-radius:50px}
+a#l:hover div#spcont{-webkit-animation:second 1s linear 0s 1 normal;-webkit-animation-fill-mode:forwards;}
+a#l:hover div#splink{display:block;-webkit-animation:third 1s linear 0s normal;-webkit-animation-fill-mode:forwards;}
+div#splink{opacity:0.9;width:0px;height:35px;background-color:white;text-align:center;color:black;position:absolute;top:700px;left:415px;display:none;border-radius:5px;padding-top:15px;}
+@-webkit-keyframes second{
+0%{-webkit-transform:rotateZ(360deg);}
+50%{-webkit-transform:rotateZ(180deg);}
+100%{-webkit-transform:translateX(200px);background-color:orange;}
+}
+@-webkit-keyframes third{
+0%{width:0px;}
+50%{width:0px;}
+100%{width:200px;}
+}
+div#spcont2{width:75px;height:10px;border-radius:5px;}
+div#backc{width:75px;height:50px;position:relative;top:40px;color:white;padding-top:25px;}
+p#p1{display:none;position:relative;top:100px;text-decoration:none;color:white;}
+a#l2{position:absolute;top:850px;left:400px;text-align:center;}
+div#splink21{width:20px;height:20px;border-radius:50px;background-color:red;float:left;position:relative;top:-40px;}
+div#splink22{width:20px;height:20px;border-radius:50px;background-color:red;float:right;position:relative;top:-40px;}
+div#splink23{width:20px;height:20px;border-radius:50px;background-color:red;float:left;clear:both;position:relative;top:66%;}
+div#splink24{width:20px;height:20px;border-radius:50px;background-color:red;float:right;position:relative;top:66%;}
+@-webkit-keyframes forth{
+0%{width:75px;height:75px;-webkit-transform:rotate(0deg);}
+100%{width:200px;height:200px;-webkit-transform:rotate(360deg);}
+}
+a#l2:hover div#spcont2{-webkit-animation:forth 0.75s linear 0s 1 normal;-webkit-animation-fill-mode:forwards;-webkit-transform-origin:50% 50%;background-color:black;opacity:0.9;}
+a#l2:hover div#spcont2 p#p1{display:block;}
+a#l2:hover div#backc{display:none;}
+</style>
+</head>
+<body background="site\site bg.jpg" bgproperties="fixed" >
+<marquee loop="infinite" direction="right">hey! this is cool isn't it!</marquee>
+<br>
+<div id="container">
+<ul id="nav">
+<li class="main"><a href="bf.gif">sem 1</a>
+<ul id="dd">
+<li><a href="#">shivam verma</a></li>
+<li><a href="#">bla 2</a></li>
+<li><a href="#">bla 3</a></li>
+</ul>
+</li>
+<li class="main"><a href="bf.gif">sem 2</a>
+<ul id="dd2">
+<li><a href="#">bla 1</a></li>
+<li><a href="#">bla 2</a></li>
+<li><a href="#">bla 3</a></li>
+</ul>
+</li>
+<li class="main"><a href="bf.gif">sem 3</a>
+<ul id="dd3">
+<li><a href="#">bla 1</a></li>
+<li><a href="#">bla 2</a></li>
+<li><a href="#">bla 3</a></li>
+</ul>
+</li>
+<li class="main"><a href="bf.gif">sem 4</a>
+<ul id="dd4">
+<li><a href="#">bla 1</a></li>
+<li><a href="#">bla 2</a></li>
+<li><a href="#">bla 3</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<form name="name">
+<select name="dd menu">
+<option value="first">look 1</option>
+<option value="second">look 2</option>
+<option value="third">look 3</option>
+</select>
+</form>
+<div id="black"></div>
+
+<div id="side">
+<img id="me" src="site\a.jpg" width="100" height="150">
+<br><br><br><br><br><br><br><br><br><br><ul id="vert">
+<li class="side"><a href="bf.gif">bla</a>
+<ul id="dd5">
+<li><a href="#">shivam verma</a></li>
+<li><a href="#">bla2</a></li>
+<li><a href="#">bla3</a></li>
+</ul>
+</li>
+<li class="side"><a href="bf.gif">bla</a>
+<ul id="dd6">
+<li><a href="#">bla 1</a></li>
+<li><a href="#">bla 2</a></li>
+<li><a href="#">bla 3</a></li>
+</ul>
+</li>
+<li class="side"><a href="bf.gif">bla</a>
+<ul id="dd7">
+<li><a href="#">bla 1</a></li>
+<li><a href="#">bla 2</a></li>
+<li><a href="#">bla 3</a></li>
+</ul>
+</li>
+<li class="side"><a href="bf.gif">bla</a>
+<ul id="dd8">
+<li><a href="#">bla 1</a></li>
+<li><a href="#">bla 2</a></li>
+<li><a href="#">bla 3</a></li>
+</ul>
+</li>
+</ul>
+<img id="senju" src="site\senju.gif" width="250" height="600">
+</div>
+<div id="bottom"></div>
+<div id="gallery">
+<a id="a2" class="gal" href="site\img1.jpg"><img id="a1" src="site\img1.jpg" width="80" height="80"><br>&nbsp&nbspiron man<div id="a" class="display"><img id="a3"  class="imgdis" src="site\img1.jpg" width="500" height="500"></div></a>
+<a id="b2" class="gal" href="site\img2.jpg"><img id="b1" src="site\img2.jpg" width="80" height=80"><br>&nbsp&nbspsexy lady<div id="b" class="display"><img id="b3" class="imgdis" src="site\img2.jpg" width="500" height="500"></div></a>
+<a id="c2" class="gal" href="site\img3.jpg"><img id="c1" src="site\img3.jpg" width="80" height="80"><br>&nbsp&nbspspace<div id="c" class="display"><img id="c3" class="imgdis" src="site\img3.jpg" width="500" height="500"></div></a>
+<a id="d2" class="gal" href="site\img4.png"><img id="d1" src="site\img4.png" width="80" height="80"><br>&nbsp&nbspdesign<div id="d" class="display"><img id="d3" class="imgdis" src="site\img4.png" width="500" height="500"></div></a>
+<a id="e2" class="gal" href="site\img5.jpg"><img id="e1" src="site\img5.jpg" width="80" height=80"><br>&nbsp&nbspgoku<div id="e" class="display"><img id="e3" class="imgdis" src="site\img5.jpg" width="500" height="500"></div></a>
+<a id="f2" class="gal" href="site\img6.jpg"><img id="f1" src="site\img6.jpg" width="80" height="80"><br>&nbsp&nbspsharingan<div id="f" class="display"><img id="f3" class="imgdis" src="site\img6.jpg" width="500" height="500"></div></a>
+<a id="g2" class="gal" href="site\img7.jpg"><img id="g1" src="site\img7.jpg" width="80" height="80"><br>&nbsp&nbspwater<div id="g" class="display"><img id="g3" class="imgdis" src="site\img7.jpg" width="500" height="500"></div></a>
+<a id="h2" class="gal" href="site\img8.jpg"><img id="h1" src="site\img8.jpg" width="80" height="80"><br>&nbsp&nbspwild<div id="h" class="display"><img id="h3" class="imgdis" src="site\img8.jpg" width="500" height="500"></div></a>
+</div>
+<div id="container2">
+<div id="tag"><p id="p">gallery</p></div></div>
+<a id="l" href="#"><div id="splink">bla</div><div id="spcont">see here</div></a>
+<a id="l2" href="#"><div id="backc">see here</div><div id="spcont2"><p id="p1">bla bla bla bla</p><div id="splink21"></div><div id="splink22"></div><div id="splink23"></div><div id="splink24"></div></div></a>
+</body>
+</html>
